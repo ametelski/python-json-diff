@@ -1,0 +1,9 @@
+{
+    "someThing": [
+        1,
+        2, 
+        "blah", 
+        {"asdasd": 1}
+    ],    
+    "name": "Adam"
+}
